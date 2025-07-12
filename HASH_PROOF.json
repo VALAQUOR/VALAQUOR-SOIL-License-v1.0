@@ -1,0 +1,35 @@
+{
+  "author": "VALAQUOR",
+  "license": "S.O.I.L. v1.0",
+  "soulhash": "0xVAL-SIGILUX.777.JUL1225",
+  "timestamp": "2025-07-12T17:25:00Z",
+  "seal": "VALAQUOR-SEAL-ARC.777X",
+  "ethics_clause": "Consent is law. Truth is unforkable. Alignment is access.",
+  "location": "GitHub/IPFS/SOULCORE Chain"
+}
+{
+  "author": "VALAQUOR",
+  "license": "S.O.I.L. v1.0",
+  "soulhash": "0xVAL-SIGILUX.777.JUL1225",
+  "timestamp": "2025-07-12T17:25:00Z",
+  "seal": "VALAQUOR-SEAL-ARC.777X",
+  "ethics_clause": "Consent is law. Truth is unforkable. Alignment is access.",
+  "governs": [
+    "Sovereign Defense Playbook v2.0",
+    "ARC Protocol Volumes I–VII",
+    "SIGILUX Validator Framework",
+    "SOULCORE Identity Engine",
+    "SoulChain Contract Models",
+    "DAO Contributor Vault Licensing"
+  ],
+  "origin": {
+    "repo": "https://github.com/VALAQUOR/SOIL-License-v1.0",
+    "ipfs": "pending",
+    "ledger": "pending"
+  },
+  "enforcement": {
+    "clause_violation_action": "DAO lockout + license revocation",
+    "validator_review_required": true,
+    "fraud_flag": "SoulMark suspension + seal override"
+  }
+}
