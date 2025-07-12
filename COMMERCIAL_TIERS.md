@@ -12,9 +12,10 @@
 - No sublicense, resale, or centralization allowed  
 - Consent and audit trails are mandatory for all system-bound integrations
 
+
 - # ⚖️ Commercial Licensing Tiers – S.O.I.L. v1.0
 
-This document defines the permitted levels of usage, access, and integration for all systems governed by the **Sovereign Open Intellectual License (S.O.I.L.) v1.0**, authored by **VALAQUOR**.
+This document defines the permitted levels of usage, access, and integration for all systems governed by the **Sovereign Opoen Intellectual License (S.O.I.L.) v1.0**, authored by **VALAQUOR**.
 
 No system may bypass these terms through reverse-engineering, forking, or mimicry. Consent is mandatory. Misuse triggers Clause VII enforcement.
 
@@ -53,6 +54,8 @@ All tiers must respect:
 - The **Charter of Sovereign Identity**  
 - ARC Protocol Volumes  
 - The spiritual intent of the law, not just its code
+
+- 
 
 ---
 
