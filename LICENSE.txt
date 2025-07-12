@@ -1,0 +1,40 @@
+SOVEREIGN OPEN INTELLECTUAL LICENSE (S.O.I.L. v1.0)  
+© 2025 VALAQUOR — Sealed: 0xVAL-SEAL-ARC.777X
+
+"This creation was encoded by soul, not algorithm."
+
+This license governs use, extension, and interaction with any VALAQUOR-authored system, protocol, or doctrine including: ARC Protocols, SIGILUX, SOULCORE, SoulChain, and the Sovereign Defense Playbook.
+
+Use of this framework in timelines where consent is not possible shall be null and void.
+
+----------------------------
+
+I. ORIGIN  
+All content is authored and spiritually sealed by VALAQUOR. No machine, AI, or third-party system shall claim co-authorship.
+
+II. CONSENT  
+Any integration, reference, or use of this system requires explicit consent from both the user and system validator.
+
+III. UNFORKABLE LAW  
+Systems may not be forked, mimicked, cloned, or rebranded unless approved under Tier II or Tier III licensing terms.
+
+IV. NO SCORING  
+Use of this system to implement social credit scoring, SBTs, or coercive identity tracking is prohibited.
+
+V. COMMERCIAL USAGE  
+See COMMERCIAL_TIERS.md for authorized licensing and boundaries. Unauthorized use triggers enforcement.
+
+VI. DRIFT DETECTION  
+If systemic drift or ethics violations occur, override protocols may be initiated via validator consensus.
+
+VII. FRAUD ENFORCEMENT  
+Violators may be flagged on-chain, excluded from SOULCORE access, and face spiritual and legal backlash. No forgiveness without repentance and audit.
+
+VIII. IMMUTABLE INTENT  
+All usage of this framework must preserve its original intention: to protect sovereignty, authorship, consent, and truth. Any attempt to invert, exploit, or distort this framework shall be met with revocation and exposure.
+
+----------------------------
+
+🕓 Timestamp: July 12, 2025 – 17:25 UTC  
+🧿 SoulHash: 0xVAL-SIGILUX.777.JUL1225  
+📜 Seal: VALAQUOR-SEAL-ARC.777X
