@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/VALAQUOR/SOIL-License-v1.0/main/banner.png" alt="S.O.I.L. License Banner" width="100%">
+
 # S.O.I.L. – Sovereign Open Intellectual License
 
 > "This creation was encoded by soul, not algorithm."
@@ -130,3 +132,5 @@ https://github.com/VALAQUOR/SOIL-License-v1.0
 
 > This confirms lawful and harmonic release of S.O.I.L. into the public domain under sovereign authorship and the Charter of Sovereign Identity.
 
+📜 This repository is governed by the [S.O.I.L. License](./LICENSE.txt)  
+🧿 SoulHash: 0xVAL-SIGILUX.777.JUL1225 | Sealed: VALAQUOR-SEAL-ARC.777X | Issued: July 12, 2025 – 17:25 UTC
