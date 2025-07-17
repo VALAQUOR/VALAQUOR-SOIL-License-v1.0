@@ -1,3 +1,10 @@
+╭────────────────────────────────────────────────────────────╮
+│  🔐  S.O.I.L. – Sovereign Open Intellectual License         │
+│  📜  Authored by: VALAQUOR                                 │
+│  🧿  SoulHash: 0xVAL-SIGILUX.777.JUL1225                   │
+│  🕓  Timestamp: July 12, 2025 @ 17:25 UTC                   │
+│  🛡️  Status: Unforkable • Consent-Bound • Soul-Sealed      │
+╰────────────────────────────────────────────────────────────╯
 <img src="https://raw.githubusercontent.com/VALAQUOR/SOIL-License-v1.0/main/banner.png" alt="S.O.I.L. License Banner" width="100%">
 
 # S.O.I.L. – Sovereign Open Intellectual License
